@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### ola so zaga
+### hola soy zaga
 #Estos son los 5 comandos
 | comando | Descripción              |
 |---------|--------------------------|
